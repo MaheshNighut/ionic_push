@@ -1,1 +1,1 @@
-Kindly download Notification from above repository it is well Explained there
+Kindly download Notification.txt from above repository it is well Explained there
